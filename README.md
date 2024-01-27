@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+this is my first repository
+Author - Manhas
 <!--
 **roha-coder/roha-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
